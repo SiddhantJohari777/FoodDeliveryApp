@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "frontend",
   "private": true,
   "version": "0.0.0",
@@ -20,5 +21,11 @@
     "@vitejs/plugin-react": "^6.1.1",
     "oxlint": "^1.81.0",
     "vite": "^8.3.0"
+=======
+  "dependencies": {
+    "axios": "^1.21.1",
+    "react-router-dom": "^7.18.5",
+    "react-toastify": "^11.2.0"
+>>>>>>> ab6b14333f4b73ce0d7d0c28ff7bcb41c517c87c
   }
 }
